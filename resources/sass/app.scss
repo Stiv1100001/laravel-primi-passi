@@ -1,0 +1,23 @@
+//
+header {
+    display: flex;
+    justify-content: center;
+
+    h1 {
+        font-family: sans-serif;
+        color: blue;
+        text-decoration: overline underline;
+    }
+}
+
+
+main {
+    ul {
+        display: flex;
+        justify-content: space-around;
+
+        li {
+            list-style: none;
+        }
+    }
+}

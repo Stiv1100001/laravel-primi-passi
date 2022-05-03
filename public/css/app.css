@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+header h1 {
+  font-family: sans-serif;
+  color: blue;
+  text-decoration: overline underline;
+}
+
+main ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+main ul li {
+  list-style: none;
+}
+
